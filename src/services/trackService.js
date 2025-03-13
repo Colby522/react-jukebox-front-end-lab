@@ -1,0 +1,1 @@
+const BADE_URL = `${import.meta.env.VITE_BACK_END_SEVER_URL}/tracks`
